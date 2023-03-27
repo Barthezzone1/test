@@ -1,0 +1,17 @@
+{
+  "name": "Moja Lokalizacja",
+  "short_name": "Moja Lokalizacja",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "blue",
+  "theme_color": "blue",
+  "description": "Mapa i SOS",
+  "icons": [
+      {
+          "src": "logo.png",
+          "sizes": "225x225",
+          "type": "image/png"
+      }
+      
+   ]
+}
